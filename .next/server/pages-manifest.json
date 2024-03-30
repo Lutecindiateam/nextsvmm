@@ -1,1 +1,6 @@
-{"/_error":"pages/_error.js","/about":"pages/about.html","/become-volunteer":"pages/become-volunteer.html","/causes":"pages/causes.html","/_app":"pages/_app.js","/culture":"pages/culture.html","/education":"pages/education.html","/causes-details":"pages/causes-details.html","/health":"pages/health.html","/gallery":"pages/gallery.html","/contact":"pages/contact.html","/_document":"pages/_document.js","/events":"pages/events.html","/event-details":"pages/event-details.html","/":"pages/index.html","/home2":"pages/home2.html","/self":"pages/self.html","/social":"pages/social.html","/news-details":"pages/news-details.html","/news":"pages/news.html","/volunteers":"pages/volunteers.html","/404":"pages/404.html"}
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/home2": "pages/home2.js"
+}
