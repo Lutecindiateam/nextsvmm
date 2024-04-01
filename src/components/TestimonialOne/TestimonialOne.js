@@ -35,7 +35,7 @@ const TestimonialOne = ({ className = "" }) => {
       ></div>
       <Container>
         <Row>
-          <Col xl={4}>
+          {/* <Col xl={4}>
             <div className="testimonial-one__left">
               <div className="section-title text-left">
                 <span className="section-title__tagline">Our Testimonials</span>
@@ -44,8 +44,8 @@ const TestimonialOne = ({ className = "" }) => {
                 </h2>
               </div>
             </div>
-          </Col>
-          <Col xl={8}>
+          </Col> */}
+          <Col xl={12}>
             <div className="testimonial-one__right testimonial-one__carousel owl-theme owl-carouse position-relative">
               <TinySlider settings={settings}>
                 {testimonial.map((singleTestimonial) => (

@@ -41,10 +41,22 @@
       "static/chunks/src_components_Header_HeaderTwo_js.js"
     ]
   },
+  "..\\components\\JoinOne\\JoinOne.js -> ../Jarallax/Jarallax": {
+    "id": "..\\components\\JoinOne\\JoinOne.js -> ../Jarallax/Jarallax",
+    "files": [
+      "static/chunks/src_components_Jarallax_Jarallax_js.js"
+    ]
+  },
   "..\\components\\NewsTwo\\NewsTwo.js -> ../Jarallax/Jarallax": {
     "id": "..\\components\\NewsTwo\\NewsTwo.js -> ../Jarallax/Jarallax",
     "files": [
       "static/chunks/src_components_Jarallax_Jarallax_js.js"
+    ]
+  },
+  "..\\components\\TestimonialOne\\TestimonialOne.js -> tiny-slider-react": {
+    "id": "..\\components\\TestimonialOne\\TestimonialOne.js -> tiny-slider-react",
+    "files": [
+      "static/chunks/node_modules_tiny-slider-react_build_index_js.js"
     ]
   }
 }
