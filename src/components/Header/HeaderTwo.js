@@ -19,16 +19,16 @@ const HeaderTwo = () => {
             <div className="main-header-two__logo">
               <Link href="/">
 
-                <Image src={logo.src} alt="" style={{height:"80px"}} />
+                <Image src={logo.src} alt="" style={{ height: "80px" }} />
 
               </Link>
             </div>
-        
+
             <div className="main-header-two__contact-info">
               <ul className="main-header-two__contact-list list-unstyled ">
                 <li>
-                 <p style={{fontSize:"40px",color:"white"}}>Swami Vivekanad Medical Mission </p>
-                 <p style={{fontSize:"40px",color:"white"}}>Wayanad, Kerala</p>
+                  <p style={{ fontSize: "40px", color: "white" }}>Swami Vivekananda Medical Mission </p>
+                  <p style={{ fontSize: "40px", color: "white" }}>Wayanad, Kerala</p>
                 </li>
                 {/* <li>
                   <div className="main-header-two__contact-icon">
